@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋
 
-- 🔭 I’m currently working on currently working on a goods assortment for one of the largest retailers in the Brazilian market, in which I am responsible for the assortments frontend.
+- 🔭 I’m currently working on a goods assortment for one of the largest retailers in the Brazilian market which I am responsible for the assortments frontend.
 - 🌱 I’m currently learning crypto bots, DeFi, CPC strategies.
 - 👯 I’m looking to collaborate on DeFi, Red Team, Frontend Development
 
