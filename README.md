@@ -1,3 +1,5 @@
+<img src="/logo.png" alt="banner" />
+
 ### Welcome to my profile 👋
 
 - 🔭 I’m currently working on a goods assortment for one of the largest retailers in the Brazilian market which I am responsible for the assortments frontend.
