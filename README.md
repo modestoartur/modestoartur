@@ -33,7 +33,9 @@
 
 <p>
   <a href="mailto:modestoartur@gmail.com">
-  <img alt="email" src="https://img.shields.io/badge/email-0077B5?logo=email&logoColor=white&style=for-the-badge" />
+    <img alt="email" src="https://img.shields.io/badge/email-white?logo=mail&logoColor=red&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/modestoartur/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/modestoartur/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
