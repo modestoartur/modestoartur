@@ -8,6 +8,7 @@
 
 ### What do I do?
 
+#### Frontend:
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge" />
@@ -15,6 +16,10 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7e018?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
+
+#### Backend:
+<p>
   <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-8892BF?logo=php&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge" />
@@ -22,7 +27,7 @@
 
 ---
 
-### Send me a message!
+### Get in touch!
 
 - 📫 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway!
 
