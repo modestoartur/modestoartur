@@ -1,5 +1,5 @@
 
-![github stats](https://github-readme-stats.vercel.app/api?username=modestoartur)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=modestoartur&show_icons=true&count_private=true)
 
 
 - 🔭 I’m currently working on ...
