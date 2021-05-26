@@ -15,9 +15,9 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7e018?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-E34F26?logo=java&logoColor=white&style=for-the-badge" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-E34F26?logo=php&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-E34F26?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white&style=for-the-badge" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-8892BF?logo=php&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
