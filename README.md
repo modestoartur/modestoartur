@@ -9,7 +9,7 @@
 ### What do I do?
 
 <p>
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-3389db?logo=angular&logoColor=DD0031&style=for-the-badge" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7e018?logo=javascript&logoColor=black&style=for-the-badge" />
