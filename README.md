@@ -6,24 +6,11 @@
 
 ---
 
-### Send me a message!
-
-- 📫 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway!
-
-<p>
-  <a href="mailto:modestoartur@gmail.com">
-  <img alt="email" src="https://img.shields.io/badge/email-0077B5?logo=email&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/modestoartur/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-</p>
-
----
-
 ### What do I do?
 
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
@@ -35,6 +22,13 @@
 
 ---
 
-### Github stats
+### Send me a message!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=modestoartur&count_private=true&title_color=00B140&icon_color=00B140&text_color=00B140&custom_title=My+Stats&show_icons=true" />
+- 📫 I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway!
+
+<p>
+  <a href="mailto:modestoartur@gmail.com">
+  <img alt="email" src="https://img.shields.io/badge/email-0077B5?logo=email&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/modestoartur/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+</p>
