@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a goods assortment for one of the largest retailers in the Brazilian market which I am responsible for the assortments frontend.
 - 🌱 I’m currently learning crypto bots, DeFi, CPC strategies.
-- 👯 I’m looking to collaborate on DeFi, Red Team, Frontend Development
+- 👯 I’m looking to collaborate on  Frontend Development, DeFi, Red Team <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
 
 ---
 
