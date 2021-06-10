@@ -22,9 +22,8 @@
 
 #### Backend:
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/NodeJS-026e00?logo=node&logoColor=white&style=for-the-badge" />
-<!--   <img alt="PHP" src="https://img.shields.io/badge/PHP-8892BF?logo=php&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge" /> -->
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node-026e00?logo=nodejs&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
