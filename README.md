@@ -22,7 +22,7 @@
 
 #### Backend:
 <p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node-026e00?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img alt="Node.JS" src="https://img.shields.io/badge/Nodedotjs-026e00?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
